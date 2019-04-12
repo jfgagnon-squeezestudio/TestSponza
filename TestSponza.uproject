@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2002C4A3-4033-C178-87E8-E3925736FCB6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestSponza",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
